@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
 
 # Jupyter Notebook specific
+=======
+#Jupyter Notebook specific
+>>>>>>> a8b66fa4101f649eec1199025b6cb9415829e005
 .ipynb_checkpoints/
-*.ipynb_checkpoints/
-
+*.ipynb_checkpoints
